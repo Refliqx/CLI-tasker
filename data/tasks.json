@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Belajar Golang",
+    "description": "",
+    "is_completed": true,
+    "created_at": "2026-01-01T21:33:29.299502387+07:00"
+  },
+  {
+    "id": 2,
+    "title": "Belajar Solidity",
+    "description": "",
+    "is_completed": false,
+    "created_at": "2026-01-01T21:33:39.053440389+07:00"
+  },
+  {
+    "id": 3,
+    "title": "Belajar Reverse Engineering",
+    "description": "",
+    "is_completed": false,
+    "created_at": "2026-01-01T21:35:52.868742979+07:00"
+  },
+  {
+    "id": 4,
+    "title": "Belajar Python Automation",
+    "description": "",
+    "is_completed": false,
+    "created_at": "2026-01-01T21:37:24.194026331+07:00"
+  },
+  {
+    "id": 5,
+    "title": "Belajar Web Scraping",
+    "description": "",
+    "is_completed": true,
+    "created_at": "2026-01-01T21:41:04.508040232+07:00"
+  },
+  {
+    "id": 6,
+    "title": "Belajar Web Scraping",
+    "description": "",
+    "is_completed": true,
+    "created_at": "2026-01-01T21:42:44.45872582+07:00"
+  }
+]
